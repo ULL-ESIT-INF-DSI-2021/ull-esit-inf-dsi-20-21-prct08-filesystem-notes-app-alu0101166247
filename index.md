@@ -12,7 +12,9 @@ En esta practica se pide crear un especie de aplicación de gestión de notas mu
 El objetivo de esta práctica es crear esta aplicación haciendo uso de 3 herramientas las cuales son:
 
 [Chalk](https://www.npmjs.com/package/chalk): Nos permite cambiar el color de la salida por consola de texto.
+
 [Yargs](https://www.npmjs.com/package/yargs): Nos permite configurar comandos para interactuar con un programa desde la terminal enviándole parámetros.
+
 [API síncrona de Node.js (fs)](https://nodejs.org/dist/latest-v15.x/docs/api/fs.html#fs_synchronous_api): Nos permite leer o escribir archivos desde nuestro programa para guardar o cargar información almacenada en ficheros, entre otras funciones mas avanzadas.
 
 Para el correcto funcionamiento de esta app primero se clona el repositorio y luego se ejecuta:
